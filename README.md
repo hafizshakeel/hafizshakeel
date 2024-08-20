@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **Generative AI & Transformer Networks**
 
-- 🌱 I’m currently learning **Deep Learning for Visual AI, Deep Learning for NLP, Vision Language Models, Multimodal AI etc.**
+- 🌱 I’m currently learning **Deep Learning for Visual AI, Deep Learning for NLP, Vision Language Models, and Multimodal AI**
 
 - 👯 I’m looking to collaborate on research topics related to **Image Processing, Computer Vision, and Deep Learning**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/hafizshakeel?tab=repositories">GitHub Repositories</a>
 
-- 💬 Ask me about **Image Processing, Computer Vision, and Deep Learning, etc.**
+- 💬 Ask me about **Image Processing, Computer Vision, and Deep Learning**
 
 - 📫 How to reach me **hafizshakeel1997@gmail.com**
 
