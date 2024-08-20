@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/0*K7WTQi7Mu53cegLd.gif)](https://rishavchanda.io)
+[![MasterHead](https://editor.analyticsvidhya.com/uploads/76746devcommunity.gif)](https://github.com/hafizshakeel)
 <h1 align="center">Hi 👋, I'm Hafiz Shakeel Ahmad Awan</h1>
 <h3 align="center">A passionate Computer Vision & AI Researcher</h3>
 
