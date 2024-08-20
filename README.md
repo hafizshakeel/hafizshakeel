@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Hafiz Shakeel Ahmad Awan</h1>
 <h3 align="center">A passionate Computer Vision & AI Researcher</h3>
 
+<img align="right" src="https://media.assettype.com/analyticsinsight%2F2024-07%2F4962882a-f9de-415c-9c44-10c12e16d261%2FAI_Animated.gif" alt="Deep Learning Technologies Impacting Computer Vision Advances" width="500" height="600">
+
+
 - 🔭 I’m currently working on **Transformer Networks**
 
 - 🌱 I’m currently learning **PyTorch, TensorFlow, OpenCV, etc.**
