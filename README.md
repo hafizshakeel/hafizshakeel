@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **PyTorch, TensorFlow, OpenCV, etc.**
 
-- 👯 I’m looking to collaborate on **Image Processing, Computer Vision, and Deep Learning**
+- 👯 I’m looking to collaborate on research topics related to **Image Processing, Computer Vision, and Deep Learning**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/hafizshakeel?tab=repositories">GitHub Repositories</a>
 
