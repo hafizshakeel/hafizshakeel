@@ -5,15 +5,15 @@
 <img align="right" src="https://media.assettype.com/analyticsinsight%2F2024-07%2F4962882a-f9de-415c-9c44-10c12e16d261%2FAI_Animated.gif" alt="Deep Learning Technologies Impacting Computer Vision Advances" width="400" height="300">
 
 
-- 🔭 I’m currently working on **Transformer Networks**
+- 🔭 I’m currently working on **Generative AI & Transformer Networks**
 
-- 🌱 I’m currently learning **PyTorch, TensorFlow, OpenCV, etc.**
+- 🌱 I’m currently learning **Deep Learning for Visual AI, Deep Learning for NLP, Vision Language Models, Multimodal AI etc.**
 
 - 👯 I’m looking to collaborate on research topics related to **Image Processing, Computer Vision, and Deep Learning**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/hafizshakeel?tab=repositories">GitHub Repositories</a>
 
-- 💬 Ask me about **CNNs, GANs, Transformer Networks, etc.**
+- 💬 Ask me about **Image Processing, Computer Vision, and Deep Learning, etc.**
 
 - 📫 How to reach me **hafizshakeel1997@gmail.com**
 
