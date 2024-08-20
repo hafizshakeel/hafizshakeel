@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **PyTorch, TensorFlow, OpenCV, etc.**
 
-- 👯 I’m looking to collaborate on **Image Processing, Computer Vision, Deep Learning**
+- 👯 I’m looking to collaborate on **Image Processing, Computer Vision, and Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hafizshakeel?tab=repositories](https://github.com/hafizshakeel?tab=repositories)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/hafizshakeel?tab=repositories">GitHub Repositories</a>
 
-- 💬 Ask me about **CNNs, GANs, Transformer Network, etc.**
+- 💬 Ask me about **CNNs, GANs, Transformer Networks, etc.**
 
 - 📫 How to reach me **hafizshakeel1997@gmail.com**
 
