@@ -20,7 +20,7 @@
 
 - 📑 Know about my research experiences and achievements [https://hafizshakeel.github.io/](https://hafizshakeel.github.io/)
 
-- 😊 Fun fact **Runnig, Cooking Food, Watch Travel Vlogs, Exploring Cultures**;
+- 😊 Fun fact **Runnig, Cooking Food, Watch Travel Vlogs, Exploring Cultures**
 
 
 <h3 align="left">Connect with me:</h3>
