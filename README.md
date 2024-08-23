@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **hafizshakeel1997@gmail.com**
 
-- 📄 Know about my experiences and achievements [https://hafizshakeel.github.io/](https://hafizshakeel.github.io/)
+- 📄 Know about my research experiences and achievements [https://hafizshakeel.github.io/](https://hafizshakeel.github.io/)
 
 - ⚡ Fun fact **Runnig, Cooking Food, Watch Travel Vlogs, Exploring Cultures**
 
