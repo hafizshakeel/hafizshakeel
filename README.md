@@ -20,6 +20,9 @@
 
 - 📄 Know about my experiences and achievements [https://hafizshakeel.github.io/](https://hafizshakeel.github.io/)
 
+- ⚡ Fun fact **Runnig, Cooking Food, Watch Travel Vlogs, Exploring Cultures**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hafiz-shakeel-ahmad-awan-b306a113b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafiz-shakeel-ahmad-awan-b306a113b" height="30" width="40" /></a>
