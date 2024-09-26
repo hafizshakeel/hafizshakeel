@@ -7,8 +7,13 @@
 <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hafizshakeel1997@gmail.com"/></a> 
 &nbsp; <a href="https://www.linkedin.com/in/hafiz-shakeel-ahmad-awan-b306a113b/" target="_blank"> 
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a> 
+&nbsp; <a href="https://twitter.com/your_username" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+&nbsp; <a href="https://www.instagram.com/your_username" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white"/></a>
 &nbsp; <a href="https://hafizshakeel.github.io/"><img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=githubpages&logoColor=white"/></a>
 </div>
+
 
 
 ## Personal Information
