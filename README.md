@@ -16,6 +16,9 @@
 - **Major**: Computer Engineering, AI
 - **Research Interests**: Image Processing, Computer Vision, Deep Learning, Generative AI 
 
+<p>&nbsp;</p> <!-- This adds a blank space -->
+<p>&nbsp;</p> <!-- This adds a blank space -->
+
 <img align="right" src="https://cdn.pixabay.com/animation/2024/07/31/20/48/20-48-43-696_512.gif" alt="Computer Vision Advances" width="384" height="277" style="margin-top: 30px;">
 
 ## About Me
