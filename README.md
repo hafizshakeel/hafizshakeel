@@ -16,7 +16,7 @@
 - **Major**: Computer Engineering, AI
 - **Research Interests**: Image Processing, Computer Vision, Deep Learning, Generative AI 
 
-<img align="right" src="https://cdn.pixabay.com/animation/2024/07/31/20/48/20-48-43-696_512.gif" alt="Computer Vision Advances" width="384" height="277">
+<img align="right" src="https://cdn.pixabay.com/animation/2024/07/31/20/48/20-48-43-696_512.gif" alt="Computer Vision Advances" width="384" height="277" style="margin-top: 30px;">
 
 ## About Me
 - 🌟 **Actively seeking** research internships and research fellowship opportunities in **AI and Computer Vision**.
