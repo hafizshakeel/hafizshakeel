@@ -10,13 +10,11 @@
 &nbsp; <a href="https://hafizshakeel.github.io/"><img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=githubpages&logoColor=white"/></a>
 </div>
 
-<br>
 
 ## Personal Information
 - **Name**: Hafiz Shakeel Ahmad Awan  
 - **Major**: Computer Engineering, AI
 - **Research Interests**: Image Processing, Computer Vision, Deep Learning, Generative AI 
-<br>
 
 <img align="right" src="https://cdn.pixabay.com/animation/2024/07/31/20/48/20-48-43-696_512.gif" alt="Computer Vision Advances" width="384" height="277">
 
@@ -29,7 +27,6 @@
 - 📧 **Contact**: hafizshakeel1997@gmail.com
 - 📑 **Know more**: [Research Experiences & Achievements](https://hafizshakeel.github.io/)
 
-<br>
 
 ## Tech Stacks
 
@@ -51,8 +48,8 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
-<br>
 
-## GitHub Stats
+<!-- ## GitHub Stats
 
 ![Hafiz Shakeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizshakeel&show_icons=true&theme=radical)
+ -->
