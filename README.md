@@ -7,23 +7,14 @@
 <img align="right" src="https://cdn.pixabay.com/animation/2024/07/31/20/48/20-48-43-696_512.gif" alt="Computer Vision Advances" width="384" height="277">
 
 - ⚡ I'm actively **seeking research internships and research fellowship opportunities**. If you are interested in my profile, please feel free to contact me.
-
 - 🤖 I’m currently working on **Generative AI & Transformer Networks**.
-
 - 🧠 I’m currently learning **Deep Learning for Visual AI, Deep Learning for NLP, Vision Language Models, and Multimodal AI**.
-
 - 🔍 I’m looking to collaborate on research topics related to **Image Processing, Computer Vision, and Deep Learning**.
-
 - 🔗 All of my projects are available at <a href="https://github.com/hafizshakeel?tab=repositories">GitHub Repositories</a>
-
 - 💬 Ask me about **Image Processing, Computer Vision, and Deep Learning**.
-
 - 📧 How to reach me **hafizshakeel1997@gmail.com**
-
 - 📑 Know about my research experiences and achievements [https://hafizshakeel.github.io/](https://hafizshakeel.github.io/)
-
 - 😊 Fun fact **Running, Cooking Food, Watching Travel Vlogs, Exploring Cultures**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
