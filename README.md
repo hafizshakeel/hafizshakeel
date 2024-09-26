@@ -1,8 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20WELCOME%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Hafiz%20Shakeel's%20github&descAlign=60&descAlignY=50" />
 
-
-<h1 align="center">Hi 👋, I'm Hafiz Shakeel Ahmad Awan</h1>
-<h3 align="center">A Passionate Computer Vision & AI Researcher</h3>
+<br>
 
 <div align="center">
 <a href="mailto:hafizshakeel1997@gmail.com">
