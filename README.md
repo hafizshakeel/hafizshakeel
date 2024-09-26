@@ -1,61 +1,60 @@
-<!-- [![MasterHead](https://editor.analyticsvidhya.com/uploads/76746devcommunity.gif)](https://github.com/hafizshakeel) -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20WELCOME%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Hafiz%20Shakeel's%20github&descAlign=60&descAlignY=50" />
+
 
 <h1 align="center">Hi 👋, I'm Hafiz Shakeel Ahmad Awan</h1>
 <h3 align="center">A Passionate Computer Vision & AI Researcher</h3>
+
+<div align="center">
+<a href="mailto:hafizshakeel1997@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hafizshakeel1997@gmail.com"/></a> 
+&nbsp; <a href="https://www.linkedin.com/in/hafiz-shakeel-ahmad-awan-b306a113b/" target="_blank"> 
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a> 
+&nbsp; <a href="https://hafizshakeel.github.io/"><img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=githubpages&logoColor=white"/></a>
+</div>
+
+<br>
+
+## Personal Information
+- **Name**: Hafiz Shakeel Ahmad Awan  
+- **Major**: Computer Engineering, AI
+- **Research Interests**: Image Processing, Computer Vision, Deep Learning, Generative AI 
 <br>
 
 <img align="right" src="https://cdn.pixabay.com/animation/2024/07/31/20/48/20-48-43-696_512.gif" alt="Computer Vision Advances" width="384" height="277">
 
-Personal Info
---
-
-- ⚡ I'm actively **seeking research internships and research fellowship opportunities**. If you are interested in my profile, please feel free to contact me.
-- 🤖 I’m currently working on **Generative AI & Transformer Networks**.
-- 🧠 I’m currently learning **Deep Learning for Visual AI, Deep Learning for NLP, Vision Language Models, and Multimodal AI**.
-- 🔍 I’m looking to collaborate on research topics related to **Image Processing, Computer Vision, and Deep Learning**.
-- 🔗 All of my projects are available at <a href="https://github.com/hafizshakeel?tab=repositories">GitHub Repositories</a>
-- 💬 Ask me about **Image Processing, Computer Vision, and Deep Learning**.
-- 📧 How to reach me **hafizshakeel1997@gmail.com**
-- 📑 Know about my research experiences and achievements [https://hafizshakeel.github.io/](https://hafizshakeel.github.io/)
-- 😊 Fun fact **Running, Cooking Food, Watching Travel Vlogs, Exploring Cultures**
-
-
-Connect with me:
---
-
-<p align="left">
-<a href="https://linkedin.com/in/hafiz-shakeel-ahmad-awan-b306a113b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafiz-shakeel-ahmad-awan-b306a113b" height="30" width="40" /></a>
-</p>
-
-Languages and Tools:
---
-
-<p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/> </a> 
-    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib" width="40" height="40"/> </a> 
-    <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://www.scipy.org/images/logo.svg" alt="scipy" width="40" height="40"/> </a>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-       <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/> </a> 
-   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-    <a href="https://www.huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> </a>
-    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/0/08/JetBrains_beam_logo.svg" alt="pycharm" width="40" height="40"/> </a> 
-    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter" width="40" height="40"/> </a> 
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/> </a> 
-    <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="googlecolab" width="40" height="40"/> </a>
-    <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer"> <img src="https://images.ctfassets.net/nrgyaltdicpt/451Wbu94Q1X3M5QIk74QLL/08e42061e965fb152a329ded74cdc3ce/overleaf-o-logo-primary.svg" alt="overleaf" width="40" height="40"/> </a> 
-    <a href="https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Microsoft_Office_Visio_%282019%29.svg" alt="visio" width="40" height="40"/> </a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-</p>
+## About Me
+- 🌟 **Actively seeking** research internships and research fellowship opportunities in **AI and Computer Vision**.
+- 🤖 **Current Work**: Deep Learning, Generative AI & Transformer Networks.
+- 🧠 **Learning**: Vision Language Models, Cross-Modal AI.
+- 🔍 **Collaborations**: Open to collaboration in **AI-driven Image Processing** and **Computer Vision** applications.
+- 💬 **Ask me about**: Image Processing, Computer Vision, Deep Learning.
+- 📧 **Contact**: hafizshakeel1997@gmail.com
+- 📑 **Know more**: [Research Experiences & Achievements](https://hafizshakeel.github.io/)
 
 <br>
-<!-- <a href="https://rahuldkjain.github.io/gh-profile-readme-generator">GitHub Profile README Generator</a> -->
 
+## Tech Stacks
+
+&nbsp; &nbsp;
+<img src="https://img.shields.io/badge/Python-F6C915?style=flat-square&logo=Python&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-007ACC?style=flat-square&logo=Matplotlib&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/MATLAB-FF6F00?style=flat-square&logo=MathWorks&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/HuggingFace-FFD300?style=flat-square&logo=HuggingFace&logoColor=black"/> &nbsp;
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/GoogleColab-525252?style=flat-square&logo=GoogleColab&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+
+<br>
+
+## GitHub Stats
+
+![Hafiz Shakeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizshakeel&show_icons=true&theme=radical)
