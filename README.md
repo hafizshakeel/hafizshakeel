@@ -19,15 +19,15 @@
 ## Personal Information
 - **Name**: Hafiz Shakeel Ahmad Awan  
 - **Major**: Computer Engineering, AI
-- **Research Interests**: Image Processing, Computer Vision, Deep Learning, Generative AI 
+- **Research Interests**: Image Processing, Computer Vision, Deep Learning, Generative AI, Multimodal Learning
 
 <img align="right" src="https://cdn.pixabay.com/animation/2024/07/31/20/48/20-48-43-696_512.gif" alt="Computer Vision Advances" width="384" height="277" style="margin-top: 30px;">
 
 ## About Me
 - 🌟 **Actively seeking** research internships and research fellowship opportunities in **AI and Computer Vision**.
 - 🤖 **Current Work**: Deep Learning, Generative AI & Transformer Networks.
-- 🧠 **Learning**: Vision Language Models, Cross-Modal AI.
-- 🔍 **Collaborations**: Open to collaboration in **AI-driven Image Processing** and **Computer Vision** applications.
+- 🧠 **Learning**: Generative AI, Transformer Networks, Vision Language Models, Multimodal AI.
+- 🔍 **Research Collaborations**: Open to collaboration in **AI-driven Image Processing** and **Computer Vision** applications.
 - 💬 **Ask me about**: Image Processing, Computer Vision, Deep Learning.
 - 📧 **Contact**: hafizshakeel1997@gmail.com
 - 📑 **Know more**: [Research Experiences & Achievements](https://hafizshakeel.github.io/)
