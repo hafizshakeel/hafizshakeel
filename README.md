@@ -3,14 +3,35 @@
 <br>
 
 <div align="center">
-<a href="mailto:hafizshakeel1997@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hafizshakeel1997@gmail.com"/></a> 
-&nbsp; <a href="https://www.linkedin.com/in/hafiz-shakeel-ahmad-awan-b306a113b/" target="_blank"> 
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a> 
-&nbsp; <a href="https://x.com/_hshakeelahmad" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
-&nbsp; <a href="https://hafizshakeel.github.io/"><img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=githubpages&logoColor=white"/></a>
+    <a href="mailto:hafizshakeel1997@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hafizshakeel1997@gmail.com"/>
+    </a> 
+    &nbsp; 
+    <a href="https://www.linkedin.com/in/hafiz-shakeel-ahmad-awan-b306a113b/" target="_blank"> 
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/>
+    </a> 
+    &nbsp; 
+    <a href="https://x.com/_hshakeelahmad" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/>
+    </a>
+    &nbsp; 
+    <a href="https://hafizshakeel.github.io/">
+        <img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=githubpages&logoColor=white"/>
+    </a>
+    &nbsp; 
+    <a href="https://scholar.google.com/citations?user=CWiXYx8AAAAJ&hl=en" target="_blank">
+        <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white"/>
+    </a>
+    &nbsp; 
+    <a href="https://www.researchgate.net/profile/Hafiz-Shakeel-Ahmad-Awan" target="_blank">
+        <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white"/>
+    </a>
+    &nbsp; 
+    <a href="https://www.scopus.com/authid/detail.uri?authorId=58803943700&origin=resultslist" target="_blank">
+        <img src="https://img.shields.io/badge/Scopus-6F2C91?style=flat-square&logo=scopus&logoColor=white"/>
+    </a>
 </div>
+
 
 
 
