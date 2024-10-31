@@ -15,7 +15,7 @@
 
 ## Personal Information
 - **Name**: Hafiz Shakeel Ahmad Awan  
-- **Major**: Computer Engineering, AI
+- **Major**: Computer/AI Engineering
 - **Research Interests**: Image Processing, Computer Vision, Deep Learning, Generative AI, Multimodal AI
 
 <img align="right" src="https://cdn.pixabay.com/animation/2024/07/31/20/48/20-48-43-696_512.gif" alt="Computer Vision Advances" width="384" height="277" style="margin-top: 30px;">
