@@ -24,8 +24,8 @@
 - 🔍 **Seeking**: Research roles & industry opportunities in **AI/Computer Vision**  
 - 🛠️ **Developing**: Deep Learning models, Generative AI architectures  
 - 📚 **Learning**: Generative AI, Transformer Networks, Vision-Language Models, Multimodal AI systems  
-- 🤝 **Collaborate**: On image processing and vision applications  
-- 💡 **Expertise**: Image processing, computer vision pipelines, model optimization  
+- 🤝 **Collaborate**: Image processing and vision applications  
+- 💡 **Expertise**: Image processing, computer vision, deep learning, scalable AI systems.  
 - 📬 **Contact**: hafizshakeel1997@gmail.com | [Portfolio](https://hafizshakeel.github.io/)
 
 ## 🔧 Tech Stacks  
