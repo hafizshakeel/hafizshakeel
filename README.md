@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20WELCOME%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Hafiz%20Shakeel's%20github&descAlign=60&descAlignY=50" />
 
-<br>
 
 <div align="center">
 <a href="mailto:hafizshakeel1997@gmail.com">
@@ -12,7 +11,7 @@
 &nbsp; <a href="https://hafizshakeel.github.io/"><img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=githubpages&logoColor=white"/></a>
 </div>
 
-<br>
+
 
 ## 🧑💻 Personal Information
 - **Name**: Hafiz Shakeel Ahmad Awan  
@@ -21,7 +20,6 @@
 
 <img align="right" src="https://cdn.pixabay.com/animation/2024/07/31/20/48/20-48-43-696_512.gif" alt="Computer Vision Advances" width="384" height="277" style="margin-top: 30px;">
 
-<br>
 
 ## 🧑 About Me
 - 🔍 **Seeking**: Research roles & industry opportunities in **AI/Computer Vision**  
@@ -31,7 +29,7 @@
 - 💡 **Expertise**: Image processing, computer vision, deep learning, scalable AI systems.  
 - 📬 **Contact**: hafizshakeel1997@gmail.com | [Portfolio](https://hafizshakeel.github.io/)
 
-<br>
+
 
 ## 🔧 Tech Stacks  
 
