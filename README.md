@@ -24,7 +24,7 @@
 ## 🧑 About Me
 - 🔍 **Seeking**: Research roles & industry opportunities in **AI/Computer Vision**  
 - 🛠️ **Developing**: Deep Learning models, Generative AI architectures  
-- 📚 **Learning**: Generative AI, Transformer Networks, Vision-Language Models, Multimodal AI systems  
+- 📚 **Learning**: Generative AI, Vision-Language Models, Multimodal AI systems  
 - 🤝 **Collaborate**: Image processing and vision applications  
 - 💡 **Expertise**: Image processing, computer vision, deep learning, scalable AI systems.  
 - 📬 **Contact**: hafizshakeel1997@gmail.com | [Portfolio](https://hafizshakeel.github.io/)
