@@ -14,21 +14,27 @@
 
 
 ## 🧑💻 Personal Information
-- **Name**: Hafiz Shakeel Ahmad Awan  
-- **Major**: Computer Vision & AI Engineering
-- **Research Interests**: Image Processing, Computer Vision, Deep Learning, Generative AI, VLMs
 
-<img align="right" src="https://cdn.pixabay.com/animation/2024/07/31/20/48/20-48-43-696_512.gif" alt="Computer Vision Advances" width="384" height="277" style="margin-top: 30px;">
+*   **Name**: Hafiz Shakeel Ahmad Awan
+*   **Core Domains**: Computer Vision, Natural Language Processing, Generative AI, Multimodal Systems
+*   **Current Focus**: Transformer-based architectures, Vision-Language Models, Hugging Face and Langchain ecosystem, and scalable AI applications
 
+<img align="right" src="https://cdn.pixabay.com/animation/2024/07/31/20/48/20-48-43-696_512.gif" alt="AI Research and Applications" width="384" height="277" style="margin-top: 30px;">
 
 ## 🧑 About Me
-- 🔍 **Seeking**: Research roles & industry opportunities in **AI/Computer Vision**  
-- 🛠️ **Developing**: Deep Learning models, Generative AI architectures  
-- 📚 **Learning**: Generative AI, Vision-Language Models, Multimodal AI systems  
-- 🤝 **Collaborate**: Image processing and vision applications  
-- 💡 **Expertise**: Image processing, computer vision, deep learning, scalable AI systems.  
-- 📬 **Contact**: hafizshakeel1997@gmail.com | [Portfolio](https://hafizshakeel.github.io/)
 
+I am an **AI engineer and researcher** working at the intersection of **Computer Vision** and **Natural Language Processing**, contributing to both academic research and **industry-ready AI solutions**.
+
+*   🔍 **Research Interests**: Computer Vision, NLP, Generative AI, and multimodal systems
+*   🛠 **Technical Expertise**:
+    *   Deep learning: CNNs, RNNs, VAEs, GANs, Transformers
+    *   Transformer-based models: BERT, ViT, CLIP, PaLI-Gemma, LLaMA, etc.
+    *   Hugging Face ecosystem: Model training, fine-tuning, and evaluation pipelines
+    *   Multimodal systems: Encoder-Decoder Models, Vision-Language models, Retrieval-Augmented Generation (RAG)
+    *   Scalable deployment: AWS, Docker, Git, CI/CD pipelines, Streamlit, LangChain
+    *   Languages & frameworks: Python, PyTorch, TensorFlow, OpenCV, NumPy, TensorBoard, etc.
+*   🤝 **Seeking collaborations** on research and industry projects in Computer Vision, NLP, and Generative AI.
+*   📬 **Contact**: [hafizshakeel1997@gmail.com](mailto:hafizshakeel1997@gmail.com) | [Portfolio](https://hafizshakeel.github.io/)
 
 
 ## 🔧 Tech Stacks  
